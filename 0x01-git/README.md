@@ -1,1 +1,2 @@
-my seconed readme
+ my seconed readme
+up date
